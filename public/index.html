@@ -3,20 +3,38 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>My Website</title>
+    <title>DebateHub - Where Opinions Clash</title>
     <link rel="stylesheet" href="styles.css">
 </head>
 <body>
-    <div class="container">
-        <h1>Welcome to My Website</h1>
-        <p>This is my website, yes I know right.</p>
-        
-        <!-- Search Bar -->
-        <div class="search-container">
-            <input type="text" id="search" placeholder="Search...">
-            <button onclick="performSearch()">Search</button>
+    <header>
+        <h1>DebateHub</h1>
+        <p>Fueling Discussions, Shaping Opinions</p>
+    </header>
+
+    <main>
+        <div class="container">
+            <h2>What’s Your Take?</h2>
+            <p>Search for debates, trending discussions, or start your own.</p>
+
+            <div class="search-container">
+                <input type="text" id="search" placeholder="Search debates...">
+                <button onclick="searchDebates()">Search</button>
+            </div>
+
+            <div id="results-container"></div>
+            
+            <div class="cta-section">
+                <h3>Want to Join the Conversation?</h3>
+                <p>Sign up now to start your own debates, comment, and vote on trending discussions.</p>
+                <button id="signup-btn">Sign Up</button>
+            </div>
         </div>
-    </div>
+    </main>
+
+    <footer>
+        <p>© 2025 DebateHub. All rights reserved.</p>
+    </footer>
 
     <script src="script.js"></script>
 </body>
