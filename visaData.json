@@ -1,0 +1,972 @@
+[
+    {
+        "country": "Afghanistan",
+        "requirement": "Visa required[36]",
+        "notes": ""
+    },
+    {
+        "country": "Albania",
+        "requirement": "Visa not required[38]",
+        "notes": ""
+    },
+    {
+        "country": "Algeria",
+        "requirement": "Visa required[39][40]",
+        "notes": ""
+    },
+    {
+        "country": "Andorra",
+        "requirement": "Visa not required[41]",
+        "notes": ""
+    },
+    {
+        "country": "Angola",
+        "requirement": "Visa not required[42]",
+        "notes": ""
+    },
+    {
+        "country": "Antigua and Barbuda",
+        "requirement": "Visa not required[45][46]",
+        "notes": ""
+    },
+    {
+        "country": "Argentina",
+        "requirement": "Visa not required[47][48]",
+        "notes": ""
+    },
+    {
+        "country": "Armenia",
+        "requirement": "Visa not required[50]",
+        "notes": ""
+    },
+    {
+        "country": "Australia",
+        "requirement": "eVisitor[52]",
+        "notes": ""
+    },
+    {
+        "country": "Austria",
+        "requirement": "Visa not required[54]",
+        "notes": ""
+    },
+    {
+        "country": "Azerbaijan",
+        "requirement": "eVisa[58][59]",
+        "notes": ""
+    },
+    {
+        "country": "Bahamas",
+        "requirement": "Visa not required[60][61]",
+        "notes": ""
+    },
+    {
+        "country": "Bahrain",
+        "requirement": "eVisa / Visa on arrival[62]",
+        "notes": ""
+    },
+    {
+        "country": "Bangladesh",
+        "requirement": "Visa on arrival[64]",
+        "notes": ""
+    },
+    {
+        "country": "Barbados",
+        "requirement": "Visa not required[68][69]",
+        "notes": ""
+    },
+    {
+        "country": "Belarus",
+        "requirement": "Visa not required[70][71]",
+        "notes": ""
+    },
+    {
+        "country": "Belgium",
+        "requirement": "Visa not required[73]",
+        "notes": ""
+    },
+    {
+        "country": "Belize",
+        "requirement": "Visa not required[74][75]",
+        "notes": ""
+    },
+    {
+        "country": "Benin",
+        "requirement": "eVisa[76][77]",
+        "notes": ""
+    },
+    {
+        "country": "Bhutan",
+        "requirement": "eVisa[78][79][80]",
+        "notes": ""
+    },
+    {
+        "country": "Bolivia",
+        "requirement": "Visa not required[83][84]",
+        "notes": ""
+    },
+    {
+        "country": "Bosnia and Herzegovina",
+        "requirement": "Visa not required[86]",
+        "notes": ""
+    },
+    {
+        "country": "Botswana",
+        "requirement": "Visa not required[87]",
+        "notes": ""
+    },
+    {
+        "country": "Brazil",
+        "requirement": "Visa not required[88][89]",
+        "notes": ""
+    },
+    {
+        "country": "Brunei",
+        "requirement": "Visa not required[92][93]",
+        "notes": ""
+    },
+    {
+        "country": "Bulgaria",
+        "requirement": "Visa not required[95]",
+        "notes": ""
+    },
+    {
+        "country": "Burkina Faso",
+        "requirement": "eVisa / Visa on arrival[96][97]",
+        "notes": ""
+    },
+    {
+        "country": "Burundi",
+        "requirement": "Online Visa / Visa on arrival[98][99]",
+        "notes": ""
+    },
+    {
+        "country": "Cambodia",
+        "requirement": "eVisa / Visa on arrival[101][102]",
+        "notes": ""
+    },
+    {
+        "country": "Cameroon",
+        "requirement": "eVisa[103][104]",
+        "notes": ""
+    },
+    {
+        "country": "Canada",
+        "requirement": "Electronic Travel Authorization[105]",
+        "notes": ""
+    },
+    {
+        "country": "Cape Verde",
+        "requirement": "Visa not required[108][28]",
+        "notes": ""
+    },
+    {
+        "country": "Central African Republic",
+        "requirement": "Visa required[110][111]",
+        "notes": ""
+    },
+    {
+        "country": "Chad",
+        "requirement": "eVisa[113][114]",
+        "notes": ""
+    },
+    {
+        "country": "Chile",
+        "requirement": "Visa not required[115][116]",
+        "notes": ""
+    },
+    {
+        "country": "China",
+        "requirement": "Visa required[117][118]",
+        "notes": ""
+    },
+    {
+        "country": "Colombia",
+        "requirement": "evisa[122][123]",
+        "notes": ""
+    },
+    {
+        "country": "Comoros",
+        "requirement": "Visa on arrival[126]",
+        "notes": ""
+    },
+    {
+        "country": "Republic of the Congo",
+        "requirement": "Visa required[127][128]",
+        "notes": ""
+    },
+    {
+        "country": "Democratic Republic of the Congo",
+        "requirement": "eVisa[129][130][131]",
+        "notes": ""
+    },
+    {
+        "country": "Costa Rica",
+        "requirement": "Visa not required[132][133]",
+        "notes": ""
+    },
+    {
+        "country": "C\u00f4te d'Ivoire",
+        "requirement": "eVisa[134][135]",
+        "notes": ""
+    },
+    {
+        "country": "Croatia",
+        "requirement": "Visa not required[136]",
+        "notes": ""
+    },
+    {
+        "country": "Cuba",
+        "requirement": "eVisa[137][138]",
+        "notes": ""
+    },
+    {
+        "country": "Cyprus",
+        "requirement": "Visa not required[139]",
+        "notes": ""
+    },
+    {
+        "country": "Czech Republic",
+        "requirement": "Visa not required[140]",
+        "notes": ""
+    },
+    {
+        "country": "Denmark",
+        "requirement": "Visa not required[141]",
+        "notes": ""
+    },
+    {
+        "country": "Djibouti",
+        "requirement": "eVisa[142][143]",
+        "notes": ""
+    },
+    {
+        "country": "Dominica",
+        "requirement": "Visa not required[144]",
+        "notes": ""
+    },
+    {
+        "country": "Dominican Republic",
+        "requirement": "Visa not required[145][146]",
+        "notes": ""
+    },
+    {
+        "country": "Ecuador",
+        "requirement": "Visa not required[149]",
+        "notes": ""
+    },
+    {
+        "country": "Egypt",
+        "requirement": "eVisa / Visa on arrival[152][153][154]",
+        "notes": ""
+    },
+    {
+        "country": "El Salvador",
+        "requirement": "Visa not required[155]",
+        "notes": ""
+    },
+    {
+        "country": "Equatorial Guinea",
+        "requirement": "eVisa[156][157]",
+        "notes": ""
+    },
+    {
+        "country": "Eritrea",
+        "requirement": "Visa required[158][159]",
+        "notes": ""
+    },
+    {
+        "country": "Estonia",
+        "requirement": "Visa not required[160]",
+        "notes": ""
+    },
+    {
+        "country": "Eswatini",
+        "requirement": "Visa not required[161]",
+        "notes": ""
+    },
+    {
+        "country": "Ethiopia",
+        "requirement": "eVisa / Visa on arrival[162]",
+        "notes": ""
+    },
+    {
+        "country": "Fiji",
+        "requirement": "Visa not required[165]",
+        "notes": ""
+    },
+    {
+        "country": "Finland",
+        "requirement": "Visa not required[166]",
+        "notes": ""
+    },
+    {
+        "country": "France",
+        "requirement": "Visa not required[167]",
+        "notes": ""
+    },
+    {
+        "country": "Gabon",
+        "requirement": "eVisa[168][169]",
+        "notes": ""
+    },
+    {
+        "country": "Gambia",
+        "requirement": "Visa not required[170]",
+        "notes": ""
+    },
+    {
+        "country": "Georgia",
+        "requirement": "Visa not required[171]",
+        "notes": ""
+    },
+    {
+        "country": "Germany",
+        "requirement": "Visa not required[172]",
+        "notes": ""
+    },
+    {
+        "country": "Ghana",
+        "requirement": "Visa required[173][174]",
+        "notes": ""
+    },
+    {
+        "country": "Greece",
+        "requirement": "Visa not required[175]",
+        "notes": ""
+    },
+    {
+        "country": "Grenada",
+        "requirement": "Visa not required[176]",
+        "notes": ""
+    },
+    {
+        "country": "Guatemala",
+        "requirement": "Visa not required[178]",
+        "notes": ""
+    },
+    {
+        "country": "Guinea",
+        "requirement": "eVisa[179][180]",
+        "notes": ""
+    },
+    {
+        "country": "Guinea-Bissau",
+        "requirement": "Visa on arrival[181]",
+        "notes": ""
+    },
+    {
+        "country": "Guyana",
+        "requirement": "Visa not required[182]",
+        "notes": ""
+    },
+    {
+        "country": "Haiti",
+        "requirement": "Visa not required[183]",
+        "notes": ""
+    },
+    {
+        "country": "Honduras",
+        "requirement": "Visa required[184]",
+        "notes": ""
+    },
+    {
+        "country": "Hungary",
+        "requirement": "Visa not required[185]",
+        "notes": ""
+    },
+    {
+        "country": "Iceland",
+        "requirement": "Visa not required[186]",
+        "notes": ""
+    },
+    {
+        "country": "India",
+        "requirement": "eVisa[187][188]",
+        "notes": ""
+    },
+    {
+        "country": "Indonesia",
+        "requirement": "e-VOA / Visa on arrival[189]",
+        "notes": "500,000Rp"
+    },
+    {
+        "country": "Iran",
+        "requirement": "Visa required[193]",
+        "notes": ""
+    },
+    {
+        "country": "Iraq",
+        "requirement": "eVisa / Visa on arrival[195][196][197]",
+        "notes": ""
+    },
+    {
+        "country": "Ireland",
+        "requirement": "Visa not required[199]",
+        "notes": ""
+    },
+    {
+        "country": "Israel",
+        "requirement": "Electronic Travel Authorization[202][203]",
+        "notes": ""
+    },
+    {
+        "country": "Italy",
+        "requirement": "Visa not required[205]",
+        "notes": ""
+    },
+    {
+        "country": "Jamaica",
+        "requirement": "Visa not required[206]",
+        "notes": ""
+    },
+    {
+        "country": "Japan",
+        "requirement": "Visa not required[207][208]",
+        "notes": ""
+    },
+    {
+        "country": "Jordan",
+        "requirement": "eVisa / Visa on arrival[210][211]",
+        "notes": ""
+    },
+    {
+        "country": "Kazakhstan",
+        "requirement": "Visa not required[212]",
+        "notes": ""
+    },
+    {
+        "country": "Kenya",
+        "requirement": "Electronic Travel Authorisation[213][214]",
+        "notes": ""
+    },
+    {
+        "country": "Kiribati",
+        "requirement": "Visa not required[216]",
+        "notes": ""
+    },
+    {
+        "country": "North Korea",
+        "requirement": "Visa required[217][218]",
+        "notes": ""
+    },
+    {
+        "country": "South Korea",
+        "requirement": "Electronic Travel Authorization[219]",
+        "notes": ""
+    },
+    {
+        "country": "Kuwait",
+        "requirement": "eVisa / Visa on arrival[221][222]",
+        "notes": ""
+    },
+    {
+        "country": "Kyrgyzstan",
+        "requirement": "Visa not required[223][224]",
+        "notes": ""
+    },
+    {
+        "country": "Laos",
+        "requirement": "eVisa / Visa on arrival[225][226]",
+        "notes": ""
+    },
+    {
+        "country": "Latvia",
+        "requirement": "Visa not required[227]",
+        "notes": ""
+    },
+    {
+        "country": "Lebanon",
+        "requirement": "Free visa on arrival[228]",
+        "notes": ""
+    },
+    {
+        "country": "Lesotho",
+        "requirement": "Visa not required[229]",
+        "notes": ""
+    },
+    {
+        "country": "Liberia",
+        "requirement": "Visa required[230][231]",
+        "notes": ""
+    },
+    {
+        "country": "Libya",
+        "requirement": "eVisa[232][233]",
+        "notes": ""
+    },
+    {
+        "country": "Liechtenstein",
+        "requirement": "Visa not required[235]",
+        "notes": ""
+    },
+    {
+        "country": "Lithuania",
+        "requirement": "Visa not required[236]",
+        "notes": ""
+    },
+    {
+        "country": "Luxembourg",
+        "requirement": "Visa not required[237]",
+        "notes": ""
+    },
+    {
+        "country": "Madagascar",
+        "requirement": "eVisa / Visa on arrival[238]",
+        "notes": ""
+    },
+    {
+        "country": "Malawi",
+        "requirement": "Visa not required[239]",
+        "notes": ""
+    },
+    {
+        "country": "Malaysia",
+        "requirement": "Visa not required[240]",
+        "notes": ""
+    },
+    {
+        "country": "Maldives",
+        "requirement": "Free visa on arrival[241]",
+        "notes": ""
+    },
+    {
+        "country": "Mali",
+        "requirement": "Visa required[242][243]",
+        "notes": ""
+    },
+    {
+        "country": "Malta",
+        "requirement": "Visa not required[244]",
+        "notes": ""
+    },
+    {
+        "country": "Marshall Islands",
+        "requirement": "Visa not required[245]",
+        "notes": ""
+    },
+    {
+        "country": "Mauritania",
+        "requirement": "eVisa[246][247]",
+        "notes": ""
+    },
+    {
+        "country": "Mauritius",
+        "requirement": "Visa not required[248]",
+        "notes": ""
+    },
+    {
+        "country": "Mexico",
+        "requirement": "Visa not required[249]",
+        "notes": ""
+    },
+    {
+        "country": "Federated States of Micronesia",
+        "requirement": "Visa not required[250]",
+        "notes": ""
+    },
+    {
+        "country": "Moldova",
+        "requirement": "Visa not required[251]",
+        "notes": ""
+    },
+    {
+        "country": "Monaco",
+        "requirement": "Visa not required[252]",
+        "notes": ""
+    },
+    {
+        "country": "Mongolia",
+        "requirement": "Visa not required[253]",
+        "notes": ""
+    },
+    {
+        "country": "Montenegro",
+        "requirement": "Visa not required[254]",
+        "notes": ""
+    },
+    {
+        "country": "Morocco",
+        "requirement": "Visa not required[256]",
+        "notes": ""
+    },
+    {
+        "country": "Mozambique",
+        "requirement": "Visa not required[259][260]",
+        "notes": ""
+    },
+    {
+        "country": "Myanmar",
+        "requirement": "eVisa[261][262]",
+        "notes": ""
+    },
+    {
+        "country": "Namibia",
+        "requirement": "Visa not required[263]",
+        "notes": ""
+    },
+    {
+        "country": "Nauru",
+        "requirement": "Visa required[265]",
+        "notes": ""
+    },
+    {
+        "country": "Nepal",
+        "requirement": "Online Visa / Visa on arrival[266]",
+        "notes": ""
+    },
+    {
+        "country": "Netherlands",
+        "requirement": "Visa not required[268]",
+        "notes": ""
+    },
+    {
+        "country": "New Zealand",
+        "requirement": "Electronic Travel Authority[269]",
+        "notes": ""
+    },
+    {
+        "country": "Nicaragua",
+        "requirement": "Visa not required[268]",
+        "notes": ""
+    },
+    {
+        "country": "Niger",
+        "requirement": "Visa required[273][274]",
+        "notes": ""
+    },
+    {
+        "country": "Nigeria",
+        "requirement": "eVisa[276][277]",
+        "notes": ""
+    },
+    {
+        "country": "North Macedonia",
+        "requirement": "Visa not required[278]",
+        "notes": ""
+    },
+    {
+        "country": "Norway",
+        "requirement": "Visa not required[279]",
+        "notes": ""
+    },
+    {
+        "country": "Oman",
+        "requirement": "Visa not required / eVisa[280][281]",
+        "notes": ""
+    },
+    {
+        "country": "Pakistan",
+        "requirement": "Free eVisa[282][283]",
+        "notes": ""
+    },
+    {
+        "country": "Palau",
+        "requirement": "Free visa on arrival[287]",
+        "notes": ""
+    },
+    {
+        "country": "Panama",
+        "requirement": "Visa not required[288]",
+        "notes": ""
+    },
+    {
+        "country": "Papua New Guinea",
+        "requirement": "eVisa[293][294]",
+        "notes": ""
+    },
+    {
+        "country": "Paraguay",
+        "requirement": "Visa not required[295]",
+        "notes": ""
+    },
+    {
+        "country": "Peru",
+        "requirement": "Visa not required[296]",
+        "notes": ""
+    },
+    {
+        "country": "Philippines",
+        "requirement": "Visa not required[297][298]",
+        "notes": ""
+    },
+    {
+        "country": "Poland",
+        "requirement": "Visa not required[301]",
+        "notes": ""
+    },
+    {
+        "country": "Portugal",
+        "requirement": "Visa not required[302]",
+        "notes": ""
+    },
+    {
+        "country": "Qatar",
+        "requirement": "Visa not required[303]",
+        "notes": ""
+    },
+    {
+        "country": "Romania",
+        "requirement": "Visa not required[304]",
+        "notes": ""
+    },
+    {
+        "country": "Russia",
+        "requirement": "Visa required[306]",
+        "notes": ""
+    },
+    {
+        "country": "Rwanda",
+        "requirement": "Visa not required[308]",
+        "notes": ""
+    },
+    {
+        "country": "Saint Kitts and Nevis",
+        "requirement": "Visa not required[309]",
+        "notes": ""
+    },
+    {
+        "country": "Saint Lucia",
+        "requirement": "Visa not required[310]",
+        "notes": ""
+    },
+    {
+        "country": "Saint Vincent and the Grenadines",
+        "requirement": "Visa not required[311]",
+        "notes": ""
+    },
+    {
+        "country": "Samoa",
+        "requirement": "Entry permit on arrival[312]",
+        "notes": ""
+    },
+    {
+        "country": "San Marino",
+        "requirement": "Visa not required[313]",
+        "notes": ""
+    },
+    {
+        "country": "S\u00e3o Tom\u00e9 and Pr\u00edncipe",
+        "requirement": "Visa not required[314]",
+        "notes": ""
+    },
+    {
+        "country": "Saudi Arabia",
+        "requirement": "Electronic Visa Waiver / Visa on arrival[316][317]",
+        "notes": ""
+    },
+    {
+        "country": "Senegal",
+        "requirement": "Visa not required[319]",
+        "notes": ""
+    },
+    {
+        "country": "Serbia",
+        "requirement": "Visa not required[320]",
+        "notes": ""
+    },
+    {
+        "country": "Seychelles",
+        "requirement": "Electronic Border System[321][322]",
+        "notes": ""
+    },
+    {
+        "country": "Sierra Leone",
+        "requirement": "eVisa / Visa on arrival[323][324]",
+        "notes": ""
+    },
+    {
+        "country": "Singapore",
+        "requirement": "Visa not required[325]",
+        "notes": ""
+    },
+    {
+        "country": "Slovakia",
+        "requirement": "Visa not required[326]",
+        "notes": ""
+    },
+    {
+        "country": "Slovenia",
+        "requirement": "Visa not required[327]",
+        "notes": ""
+    },
+    {
+        "country": "Solomon Islands",
+        "requirement": "Free Visitor's permit on arrival[328]",
+        "notes": ""
+    },
+    {
+        "country": "Somalia",
+        "requirement": "eVisa[329][330]",
+        "notes": ""
+    },
+    {
+        "country": "South Africa",
+        "requirement": "Visa not required[332]",
+        "notes": ""
+    },
+    {
+        "country": "South Sudan",
+        "requirement": "eVisa[333][334][335]",
+        "notes": ""
+    },
+    {
+        "country": "Spain",
+        "requirement": "Visa not required[336]",
+        "notes": ""
+    },
+    {
+        "country": "Sri Lanka",
+        "requirement": "ETA / Visa on arrival[337][338]",
+        "notes": ""
+    },
+    {
+        "country": "Sudan",
+        "requirement": "Visa required[339][340]",
+        "notes": ""
+    },
+    {
+        "country": "Suriname",
+        "requirement": "Visa not required[341][342]",
+        "notes": ""
+    },
+    {
+        "country": "Sweden",
+        "requirement": "Visa not required[345]",
+        "notes": ""
+    },
+    {
+        "country": "Switzerland",
+        "requirement": "Visa not required[346]",
+        "notes": ""
+    },
+    {
+        "country": "Syria",
+        "requirement": "eVisa[348][349]",
+        "notes": ""
+    },
+    {
+        "country": "Taiwan",
+        "requirement": "Visa not required[351]",
+        "notes": ""
+    },
+    {
+        "country": "Tajikistan",
+        "requirement": "eVisa / Visa on arrival[352][353]",
+        "notes": ""
+    },
+    {
+        "country": "Tanzania",
+        "requirement": "eVisa / Visa on arrival[354][355]",
+        "notes": ""
+    },
+    {
+        "country": "Thailand",
+        "requirement": "Visa not required[356][357]",
+        "notes": ""
+    },
+    {
+        "country": "Timor-Leste",
+        "requirement": "Visa on arrival[358]",
+        "notes": ""
+    },
+    {
+        "country": "Togo",
+        "requirement": "eVisa[359][360]",
+        "notes": ""
+    },
+    {
+        "country": "Tonga",
+        "requirement": "Free visa on arrival[361]",
+        "notes": ""
+    },
+    {
+        "country": "Trinidad and Tobago",
+        "requirement": "Visa not required[362]",
+        "notes": ""
+    },
+    {
+        "country": "Tunisia",
+        "requirement": "Visa not required[363]",
+        "notes": ""
+    },
+    {
+        "country": "Turkey",
+        "requirement": "Visa not required[364]",
+        "notes": ""
+    },
+    {
+        "country": "Turkmenistan",
+        "requirement": "Visa required[365]",
+        "notes": ""
+    },
+    {
+        "country": "Tuvalu",
+        "requirement": "Free Visa on arrival[366][367]",
+        "notes": ""
+    },
+    {
+        "country": "Uganda",
+        "requirement": "eVisa[368][369]",
+        "notes": ""
+    },
+    {
+        "country": "Ukraine",
+        "requirement": "Visa not required[370]",
+        "notes": ""
+    },
+    {
+        "country": "United Arab Emirates",
+        "requirement": "Visa not required[372]",
+        "notes": ""
+    },
+    {
+        "country": "United States",
+        "requirement": "Visa Waiver Program[374][375]",
+        "notes": ""
+    },
+    {
+        "country": "Uruguay",
+        "requirement": "Visa not required[378]",
+        "notes": ""
+    },
+    {
+        "country": "Uzbekistan",
+        "requirement": "Visa not required[379]",
+        "notes": ""
+    },
+    {
+        "country": "Vanuatu",
+        "requirement": "Visa not required[380]",
+        "notes": ""
+    },
+    {
+        "country": "Vatican City",
+        "requirement": "Visa not required[381]",
+        "notes": ""
+    },
+    {
+        "country": "Venezuela",
+        "requirement": "Visa not required[382]",
+        "notes": ""
+    },
+    {
+        "country": "Vietnam",
+        "requirement": "Visa not required[384][385][386]",
+        "notes": ""
+    },
+    {
+        "country": "Yemen",
+        "requirement": "Visa required[387][388]",
+        "notes": ""
+    },
+    {
+        "country": "Zambia",
+        "requirement": "Visa not required[390]",
+        "notes": ""
+    },
+    {
+        "country": "Zimbabwe",
+        "requirement": "eVisa / Visa on arrival[392][393]",
+        "notes": ""
+    }
+]

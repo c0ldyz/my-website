@@ -1,0 +1,1166 @@
+[
+    {
+        "country": "Afghanistan",
+        "requirement": "Visa required",
+        "allowed_stay": "",
+        "notes": "Due to safety concerns, the UK Government advises its citizens to avoid travelling to Afghanistan."
+    },
+    {
+        "country": "Albania",
+        "requirement": "Visa not required",
+        "allowed_stay": "90 days",
+        "notes": ""
+    },
+    {
+        "country": "Algeria",
+        "requirement": "Visa required",
+        "allowed_stay": "",
+        "notes": ""
+    },
+    {
+        "country": "Andorra",
+        "requirement": "Visa not required",
+        "allowed_stay": "",
+        "notes": ""
+    },
+    {
+        "country": "Angola",
+        "requirement": "Visa not required",
+        "allowed_stay": "30 days",
+        "notes": "30 days per trip, but no more than 90 days within any 1 calendar year for tourism purposes only. Visitors must have a return/onward ticket and a hotel reservation confirmation. An International Certificate of Vaccination is required."
+    },
+    {
+        "country": "Antigua and Barbuda",
+        "requirement": "Visa not required",
+        "allowed_stay": "6 months",
+        "notes": ""
+    },
+    {
+        "country": "Argentina",
+        "requirement": "Visa not required",
+        "allowed_stay": "90 days",
+        "notes": ""
+    },
+    {
+        "country": "Armenia",
+        "requirement": "Visa not required",
+        "allowed_stay": "180 days",
+        "notes": "Visa upon arrival for a maximum term of 180 days in a year."
+    },
+    {
+        "country": "Australia",
+        "requirement": "eVisitor",
+        "allowed_stay": "90 days",
+        "notes": "If granted, eVisitor allows British citizens to stay in Australia for 90 days per visit. Multiple entry allowed during the eVisitor visa 12 months period. Issued free of charge and valid for one year. According to HPI (Henley Passport Index) methodology pre-departure government approval, like eVisitor manual processing is not considered as visa free."
+    },
+    {
+        "country": "Austria",
+        "requirement": "Visa not required",
+        "allowed_stay": "90 days",
+        "notes": "90 days within any 180-day period in the Schengen Area."
+    },
+    {
+        "country": "Azerbaijan",
+        "requirement": "eVisa",
+        "allowed_stay": "30 days",
+        "notes": ""
+    },
+    {
+        "country": "Bahamas",
+        "requirement": "Visa not required",
+        "allowed_stay": "8 months",
+        "notes": "Extendable up to 8 months."
+    },
+    {
+        "country": "Bahrain",
+        "requirement": "eVisa / Visa on arrival",
+        "allowed_stay": "14 days",
+        "notes": "Visas can be issued on arrival for a stay up to 3 months."
+    },
+    {
+        "country": "Bangladesh",
+        "requirement": "Visa on arrival",
+        "allowed_stay": "30 days",
+        "notes": "Visa on arrival available at Hazrat Shahjalal International Airport"
+    },
+    {
+        "country": "Barbados",
+        "requirement": "Visa not required",
+        "allowed_stay": "6 months",
+        "notes": ""
+    },
+    {
+        "country": "Belarus",
+        "requirement": "Visa not required",
+        "allowed_stay": "30 days",
+        "notes": "Visa free until 31st December 2025. Due to safety concerns, the UK Government advises its citizens to avoid travelling to Belarus."
+    },
+    {
+        "country": "Belgium",
+        "requirement": "Visa not required",
+        "allowed_stay": "90 days",
+        "notes": "90 days within any 180-day period in the Schengen Area."
+    },
+    {
+        "country": "Belize",
+        "requirement": "Visa not required",
+        "allowed_stay": "",
+        "notes": ""
+    },
+    {
+        "country": "Benin",
+        "requirement": "eVisa",
+        "allowed_stay": "30 days",
+        "notes": "Must have an international vaccination certificate."
+    },
+    {
+        "country": "Bhutan",
+        "requirement": "eVisa",
+        "allowed_stay": "",
+        "notes": "Visa via approved tour operators only."
+    },
+    {
+        "country": "Bolivia",
+        "requirement": "Visa not required",
+        "allowed_stay": "90 days",
+        "notes": "As of 2025, be aware you may be given an initial 30 days stamp (on arrival) and can extend it for another 60 days. The Department of Immigration has imposed an annual limit for tourists of 90 days without a visa. For longer periods you must seek advice before travelling from the Bolivian Embassy in London."
+    },
+    {
+        "country": "Bosnia and Herzegovina",
+        "requirement": "Visa not required",
+        "allowed_stay": "90 days",
+        "notes": "90 days within any 6-month period."
+    },
+    {
+        "country": "Botswana",
+        "requirement": "Visa not required",
+        "allowed_stay": "90 days",
+        "notes": ""
+    },
+    {
+        "country": "Brazil",
+        "requirement": "Visa not required",
+        "allowed_stay": "90 days",
+        "notes": "As of 2025, UK passport holders are exempt from VIVIS as long as their stay does not exceed 90 days per year (counted from the date of first entry, multiple entries permitted). Extension of stay: the stay may be extended for up to the same amount of time granted upon first entry (i.e. up to 90, 60 or 30 days)."
+    },
+    {
+        "country": "Brunei",
+        "requirement": "Visa not required",
+        "allowed_stay": "90 days",
+        "notes": ""
+    },
+    {
+        "country": "Bulgaria",
+        "requirement": "Visa not required",
+        "allowed_stay": "90 days",
+        "notes": "90 days within any 180-day period in the Schengen Area."
+    },
+    {
+        "country": "Burkina Faso",
+        "requirement": "eVisa / Visa on arrival",
+        "allowed_stay": "1 month",
+        "notes": ""
+    },
+    {
+        "country": "Burundi",
+        "requirement": "Online Visa / Visa on arrival",
+        "allowed_stay": "1 month",
+        "notes": "From December 2021, passengers of all countries that required visa, can now obtain visa on arrival at Bujumbura International Airport, and all land borders."
+    },
+    {
+        "country": "Cambodia",
+        "requirement": "eVisa / Visa on arrival",
+        "allowed_stay": "30 days",
+        "notes": "Extendable for another 30 days."
+    },
+    {
+        "country": "Cameroon",
+        "requirement": "eVisa",
+        "allowed_stay": "",
+        "notes": "Pre-approved visa can be picked up on arrival."
+    },
+    {
+        "country": "Canada",
+        "requirement": "Electronic Travel Authorization",
+        "allowed_stay": "6 months",
+        "notes": "Electronic Travel Authorization required if arriving by air."
+    },
+    {
+        "country": "Cape Verde",
+        "requirement": "Visa not required",
+        "allowed_stay": "30 days",
+        "notes": "Must register online at least five days prior to arrival."
+    },
+    {
+        "country": "Central African Republic",
+        "requirement": "Visa required",
+        "allowed_stay": "",
+        "notes": "Due to security concerns, the UK Government advises its citizens to avoid travelling to Central African Republic."
+    },
+    {
+        "country": "Chad",
+        "requirement": "eVisa",
+        "allowed_stay": "",
+        "notes": ""
+    },
+    {
+        "country": "Chile",
+        "requirement": "Visa not required",
+        "allowed_stay": "90 days",
+        "notes": "May be extended."
+    },
+    {
+        "country": "China",
+        "requirement": "Visa required",
+        "allowed_stay": "",
+        "notes": "24-hour visa-free transit through any international airports of China, allows domestic travel through different airports.[Note 1] 72-hour visa-free transit through Changsha, Guilin and Harbin airports, or Beihai port. 144-hour visa-free transit through Beijing, Chengdu, Chongqing, Dalian, Guangzhou, Hangzhou, Jieyang, Kunming, Nanjing, Ningbo, Qingdao, Shanghai, Shenyang, Shenzhen, Shijiazhuang, Tianjin, Wuhan, Xiamen and Xi'an airports, or Dalian, Guangzhou, Lianyungang, Qingdao, Qinhuangdao, Shanghai, Shenzhen, Tianjin, Wenzhou, Xiamen and Zhoushan ports. Hong Kong, Macau, and Taiwan count as third countries under the 24, 72 and 144-hours transit without visa (TWOV) policies. British nationals need a visa to enter mainland China, including Hainan Island, but not Hong Kong or Macao. Visiting visas issued to British citizens are generally valid for 2 years"
+    },
+    {
+        "country": "Colombia",
+        "requirement": "evisa",
+        "allowed_stay": "",
+        "notes": "Extendable up to 180-days stay consecutively within a 1-year period."
+    },
+    {
+        "country": "Comoros",
+        "requirement": "Visa on arrival",
+        "allowed_stay": "45 days",
+        "notes": ""
+    },
+    {
+        "country": "Republic of the Congo",
+        "requirement": "Visa required",
+        "allowed_stay": "",
+        "notes": ""
+    },
+    {
+        "country": "Democratic Republic of the Congo",
+        "requirement": "eVisa",
+        "allowed_stay": "7 days",
+        "notes": ""
+    },
+    {
+        "country": "Costa Rica",
+        "requirement": "Visa not required",
+        "allowed_stay": "3 months",
+        "notes": ""
+    },
+    {
+        "country": "Côte d'Ivoire",
+        "requirement": "eVisa",
+        "allowed_stay": "3 months",
+        "notes": "e-Visa holders must arrive via Port Bouet Airport."
+    },
+    {
+        "country": "Croatia",
+        "requirement": "Visa not required",
+        "allowed_stay": "90 days",
+        "notes": "90 days within any 180 day period in the Schengen Area."
+    },
+    {
+        "country": "Cuba",
+        "requirement": "eVisa",
+        "allowed_stay": "90 days",
+        "notes": ""
+    },
+    {
+        "country": "Cyprus",
+        "requirement": "Visa not required",
+        "allowed_stay": "90 days",
+        "notes": "90 days within 180-day period."
+    },
+    {
+        "country": "Czech Republic",
+        "requirement": "Visa not required",
+        "allowed_stay": "90 days",
+        "notes": "90 days within any 180-day period in the Schengen Area."
+    },
+    {
+        "country": "Denmark",
+        "requirement": "Visa not required",
+        "allowed_stay": "90 days",
+        "notes": "90 days within any 180-day period in the Schengen Area."
+    },
+    {
+        "country": "Djibouti",
+        "requirement": "eVisa",
+        "allowed_stay": "90 days",
+        "notes": ""
+    },
+    {
+        "country": "Dominica",
+        "requirement": "Visa not required",
+        "allowed_stay": "6 months",
+        "notes": ""
+    },
+    {
+        "country": "Dominican Republic",
+        "requirement": "Visa not required",
+        "allowed_stay": "30 days",
+        "notes": "Will normally be granted a 30-day stay on arrival. This can be extended up to 120 days by an extension online."
+    },
+    {
+        "country": "Ecuador",
+        "requirement": "Visa not required",
+        "allowed_stay": "90 days",
+        "notes": "As of 2025, can enter without a visa for up to 90 days in any 12-month period. If you’re already in Ecuador and want to stay longer than 90 days, you can pay to extend your stay (in Spanish) by an extra 90 days. You must apply for an extension before the first 90-day period ends. "
+    },
+    {
+        "country": "Egypt",
+        "requirement": "eVisa / Visa on arrival",
+        "allowed_stay": "30 days",
+        "notes": ""
+    },
+    {
+        "country": "El Salvador",
+        "requirement": "Visa not required",
+        "allowed_stay": "6 months",
+        "notes": ""
+    },
+    {
+        "country": "Equatorial Guinea",
+        "requirement": "eVisa",
+        "allowed_stay": "",
+        "notes": ""
+    },
+    {
+        "country": "Eritrea",
+        "requirement": "Visa required",
+        "allowed_stay": "",
+        "notes": "Pre-approved visa can be picked up on arrival."
+    },
+    {
+        "country": "Estonia",
+        "requirement": "Visa not required",
+        "allowed_stay": "90 days",
+        "notes": "90 days within any 180-day period in the Schengen Area."
+    },
+    {
+        "country": "Eswatini",
+        "requirement": "Visa not required",
+        "allowed_stay": "30 days",
+        "notes": ""
+    },
+    {
+        "country": "Ethiopia",
+        "requirement": "eVisa / Visa on arrival",
+        "allowed_stay": "up to 90 days",
+        "notes": "Visa on arrival is obtainable only at Addis Ababa Bole International Airport. e-Visa holders must arrive via Addis Ababa Bole International Airport. e-Visa is available for 30 or 90 days."
+    },
+    {
+        "country": "Fiji",
+        "requirement": "Visa not required",
+        "allowed_stay": "4 months",
+        "notes": ""
+    },
+    {
+        "country": "Finland",
+        "requirement": "Visa not required",
+        "allowed_stay": "90 days",
+        "notes": "90 days within any 180-day period in the Schengen Area."
+    },
+    {
+        "country": "France",
+        "requirement": "Visa not required",
+        "allowed_stay": "90 days",
+        "notes": "90 days within any 180-day period in the Schengen Area."
+    },
+    {
+        "country": "Gabon",
+        "requirement": "eVisa",
+        "allowed_stay": "90 days",
+        "notes": "e-Visa holders must arrive via Libreville International Airport."
+    },
+    {
+        "country": "Gambia",
+        "requirement": "Visa not required",
+        "allowed_stay": "90 days",
+        "notes": ""
+    },
+    {
+        "country": "Georgia",
+        "requirement": "Visa not required",
+        "allowed_stay": "1 year",
+        "notes": ""
+    },
+    {
+        "country": "Germany",
+        "requirement": "Visa not required",
+        "allowed_stay": "90 days",
+        "notes": "90 days within any 180-day period in the Schengen Area."
+    },
+    {
+        "country": "Ghana",
+        "requirement": "Visa required",
+        "allowed_stay": "",
+        "notes": "Pre-approved visa can be picked up on arrival."
+    },
+    {
+        "country": "Greece",
+        "requirement": "Visa not required",
+        "allowed_stay": "90 days",
+        "notes": "90 days within any 180-day period in the Schengen Area."
+    },
+    {
+        "country": "Grenada",
+        "requirement": "Visa not required",
+        "allowed_stay": "6 months",
+        "notes": "Beginning on 1 December 2020, all travellers to Grenada will be required to complete an online application in order to receive a Pure Safe Travel Authorization Certificate to enter Grenada."
+    },
+    {
+        "country": "Guatemala",
+        "requirement": "Visa not required",
+        "allowed_stay": "90 days",
+        "notes": ""
+    },
+    {
+        "country": "Guinea",
+        "requirement": "eVisa",
+        "allowed_stay": "90 days",
+        "notes": ""
+    },
+    {
+        "country": "Guinea-Bissau",
+        "requirement": "Visa on arrival",
+        "allowed_stay": "90 days",
+        "notes": ""
+    },
+    {
+        "country": "Guyana",
+        "requirement": "Visa not required",
+        "allowed_stay": "",
+        "notes": ""
+    },
+    {
+        "country": "Haiti",
+        "requirement": "Visa not required",
+        "allowed_stay": "90 days",
+        "notes": ""
+    },
+    {
+        "country": "Honduras",
+        "requirement": "Visa required",
+        "allowed_stay": "",
+        "notes": ""
+    },
+    {
+        "country": "Hungary",
+        "requirement": "Visa not required",
+        "allowed_stay": "90 days",
+        "notes": "90 days within any 180-day period in the Schengen Area."
+    },
+    {
+        "country": "Iceland",
+        "requirement": "Visa not required",
+        "allowed_stay": "90 days",
+        "notes": "90 days within any 180-day period in the Schengen Area."
+    },
+    {
+        "country": "India",
+        "requirement": "eVisa",
+        "allowed_stay": "30 days",
+        "notes": "30 days, 1 year and 5 years of eTourist visa is now available from Indian eVisa. However this service is not available for British Citizens of Pakistani Origin (i.e. someone with at least 1 Pakistani Parent or Grandparent)."
+    },
+    {
+        "country": "Indonesia",
+        "requirement": "e-VOA / Visa on arrival",
+        "allowed_stay": "30 days",
+        "notes": "The (Visa on Arrival) costs 500,000 Indonesian rupiah (£25), payable in cash or by card. It is valid for single entry only. You must meet passport validity requirements and have a return or onward ticket. For visa before available online."
+    },
+    {
+        "country": "Iran",
+        "requirement": "Visa required",
+        "allowed_stay": "",
+        "notes": "British citizens must have their visa stamped in their passport in advance of arrival in Iran. Due to security concerns, the UK Government advises its citizens to avoid travelling to Iran."
+    },
+    {
+        "country": "Iraq",
+        "requirement": "eVisa / Visa on arrival",
+        "allowed_stay": "60 days",
+        "notes": "British citizens can obtain a visa on arrival at Iraq's airports, land and sea crossings for 60 days, for a fee of USD 75. The Iraqi government lifted pre-arrival visa requirements, allowing British citizens to apply for visa on arrival in any entry point."
+    },
+    {
+        "country": "Ireland",
+        "requirement": "Visa not required",
+        "allowed_stay": "Freedom of movement (Common Travel Area).",
+        "notes": "British citizens have many of the same rights and entitlements as Irish citizens"
+    },
+    {
+        "country": "Israel",
+        "requirement": "Electronic Travel Authorization",
+        "allowed_stay": "90 days",
+        "notes": "Entry refused to anyone who \"knowingly issues a public call for boycotting Israel.\""
+    },
+    {
+        "country": "Italy",
+        "requirement": "Visa not required",
+        "allowed_stay": "90 days",
+        "notes": "90 days within any 180-day period in the Schengen Area."
+    },
+    {
+        "country": "Jamaica",
+        "requirement": "Visa not required",
+        "allowed_stay": "180 days",
+        "notes": ""
+    },
+    {
+        "country": "Japan",
+        "requirement": "Visa not required",
+        "allowed_stay": "90 days",
+        "notes": "Can travel to Japan for tourism or business for up to 90 days. A visa is given on arrival, and you do not need to apply before you travel. The Japan immigration authorities may extend your visa by another 90 days at their discretion. You will need to apply for an extension."
+    },
+    {
+        "country": "Jordan",
+        "requirement": "eVisa / Visa on arrival",
+        "allowed_stay": "",
+        "notes": "Visa can be obtained upon arrival, it will cost a total of 40 JOD, obtainable at most international ports of entry and land border crossings (except King Hussein/Allenby Bridge)"
+    },
+    {
+        "country": "Kazakhstan",
+        "requirement": "Visa not required",
+        "allowed_stay": "30 days",
+        "notes": ""
+    },
+    {
+        "country": "Kenya",
+        "requirement": "Electronic Travel Authorisation",
+        "allowed_stay": "90 days",
+        "notes": "Applications can be submitted up to 90 days prior to travel and must be submitted at least 3 days in advance. eTA fee is USD 32.50. Proof of reservation at the hotel where visitors plan to stay is required (if staying with friends, an invitation letter is also acceptable). Yellow fever vaccination certificate is required if coming from endemic countries. Can also be entered on an East Africa tourist visa issued by Rwanda or Uganda."
+    },
+    {
+        "country": "Kiribati",
+        "requirement": "Visa not required",
+        "allowed_stay": "30 days",
+        "notes": ""
+    },
+    {
+        "country": "North Korea",
+        "requirement": "Visa required",
+        "allowed_stay": "",
+        "notes": ""
+    },
+    {
+        "country": "South Korea",
+        "requirement": "Electronic Travel Authorization",
+        "allowed_stay": "90 days",
+        "notes": "British citizens can enter South Korea as a short term visit (e.g., tours, visiting relatives or friends, attending simple meetings) up to 90 days without a visa, though they should remain aware of the quarantine requirements. An onward or return ticket is mandatory. It is illegal to work on a tourist visa, whether as a teacher or in any other capacity. One must be in possession of a Korea Electronic Travel Authorization (K-ETA) to enter Korea visa-free, which can be completed up to 24 hours before boarding a flight, and is valid for 3 years from the date of approval. There is a small, non-refundable charge."
+    },
+    {
+        "country": "Kuwait",
+        "requirement": "eVisa / Visa on arrival",
+        "allowed_stay": "3 months",
+        "notes": ""
+    },
+    {
+        "country": "Kyrgyzstan",
+        "requirement": "Visa not required",
+        "allowed_stay": "60 days",
+        "notes": ""
+    },
+    {
+        "country": "Laos",
+        "requirement": "eVisa / Visa on arrival",
+        "allowed_stay": "30 days",
+        "notes": ""
+    },
+    {
+        "country": "Latvia",
+        "requirement": "Visa not required",
+        "allowed_stay": "90 days",
+        "notes": "90 days within any 180-day period in the Schengen Area."
+    },
+    {
+        "country": "Lebanon",
+        "requirement": "Free visa on arrival",
+        "allowed_stay": "1 month",
+        "notes": "Extendable for 2 additional months; granted free of charge at Beirut International Airport or any other port of entry if there is no Israeli visa or seal, holding a telephone number, an address in Lebanon, and a non-refundable return or circle trip ticket."
+    },
+    {
+        "country": "Lesotho",
+        "requirement": "Visa not required",
+        "allowed_stay": "14 days",
+        "notes": ""
+    },
+    {
+        "country": "Liberia",
+        "requirement": "Visa required",
+        "allowed_stay": "",
+        "notes": "Pre-approved visa can be picked up on arrival."
+    },
+    {
+        "country": "Libya",
+        "requirement": "eVisa",
+        "allowed_stay": "",
+        "notes": "Due to security concerns, the UK Government advises its citizens to avoid travelling to Libya."
+    },
+    {
+        "country": "Liechtenstein",
+        "requirement": "Visa not required",
+        "allowed_stay": "90 days",
+        "notes": "90 days within any 180-day period in the Schengen Area."
+    },
+    {
+        "country": "Lithuania",
+        "requirement": "Visa not required",
+        "allowed_stay": "90 days",
+        "notes": "90 days within any 180-day period in the Schengen Area."
+    },
+    {
+        "country": "Luxembourg",
+        "requirement": "Visa not required",
+        "allowed_stay": "90 days",
+        "notes": "90 days within any 180-day period in the Schengen Area."
+    },
+    {
+        "country": "Madagascar",
+        "requirement": "eVisa / Visa on arrival",
+        "allowed_stay": "60 days",
+        "notes": "For stays of less than 15 days, the visa fee is free, but an administrative fee of EUR 10 must be paid. 30 days - EUR 35; 60 days - EUR 40."
+    },
+    {
+        "country": "Malawi",
+        "requirement": "Visa not required",
+        "allowed_stay": "30 days",
+        "notes": ""
+    },
+    {
+        "country": "Malaysia",
+        "requirement": "Visa not required",
+        "allowed_stay": "3 months",
+        "notes": ""
+    },
+    {
+        "country": "Maldives",
+        "requirement": "Free visa on arrival",
+        "allowed_stay": "30 days",
+        "notes": ""
+    },
+    {
+        "country": "Mali",
+        "requirement": "Visa required",
+        "allowed_stay": "",
+        "notes": ""
+    },
+    {
+        "country": "Malta",
+        "requirement": "Visa not required",
+        "allowed_stay": "90 days",
+        "notes": "90 days within any 180-day period in the Schengen Area."
+    },
+    {
+        "country": "Marshall Islands",
+        "requirement": "Visa not required",
+        "allowed_stay": "90 days",
+        "notes": "90 days within any 180-day period."
+    },
+    {
+        "country": "Mauritania",
+        "requirement": "eVisa",
+        "allowed_stay": "30 days",
+        "notes": "Available at Nouakchott–Oumtounsy International Airport."
+    },
+    {
+        "country": "Mauritius",
+        "requirement": "Visa not required",
+        "allowed_stay": "90 days",
+        "notes": ""
+    },
+    {
+        "country": "Mexico",
+        "requirement": "Visa not required",
+        "allowed_stay": "180 days",
+        "notes": "Visa stamp (up to 180 days) length determined on arrival."
+    },
+    {
+        "country": "Federated States of Micronesia",
+        "requirement": "Visa not required",
+        "allowed_stay": "30 days",
+        "notes": ""
+    },
+    {
+        "country": "Moldova",
+        "requirement": "Visa not required",
+        "allowed_stay": "90 days",
+        "notes": "90 days within any 180-day period."
+    },
+    {
+        "country": "Monaco",
+        "requirement": "Visa not required",
+        "allowed_stay": "",
+        "notes": ""
+    },
+    {
+        "country": "Mongolia",
+        "requirement": "Visa not required",
+        "allowed_stay": "30 days",
+        "notes": "The Ministry of Foreign Affairs of Mongolia has exempted visas for 34 countries from January 2023 to December 2025."
+    },
+    {
+        "country": "Montenegro",
+        "requirement": "Visa not required",
+        "allowed_stay": "90 days",
+        "notes": "Must register with the local police station (either through a tourist organization or at hotel reception) within 24 hours of arrival."
+    },
+    {
+        "country": "Morocco",
+        "requirement": "Visa not required",
+        "allowed_stay": "90 days",
+        "notes": "For periods of longer than 90 days, a resident permit is required and can be issued by the Police Department in place of residence in Morocco."
+    },
+    {
+        "country": "Mozambique",
+        "requirement": "Visa not required",
+        "allowed_stay": "30 days",
+        "notes": "Travelers must pay a fee of 650 MT upon entry."
+    },
+    {
+        "country": "Myanmar",
+        "requirement": "eVisa",
+        "allowed_stay": "28 days",
+        "notes": "e-Visa holders must arrive via Yangon, Nay Pyi Taw or Mandalay airports or via land border crossings with Thailand — Tachileik, Myawaddy and Kawthaung or India — Rih Khaw Dar and Tamu. e-Visa available for both tourism (allowed stay is 28 days) or business purposes (allowed stay is 70 days)."
+    },
+    {
+        "country": "Namibia",
+        "requirement": "Visa not required",
+        "allowed_stay": "3 months",
+        "notes": "3 months within a calendar year."
+    },
+    {
+        "country": "Nauru",
+        "requirement": "Visa required",
+        "allowed_stay": "",
+        "notes": "In addition of a visa, an application should be obtained by email via the Directorate of Immigration."
+    },
+    {
+        "country": "Nepal",
+        "requirement": "Online Visa / Visa on arrival",
+        "allowed_stay": "90 days",
+        "notes": ""
+    },
+    {
+        "country": "Netherlands",
+        "requirement": "Visa not required",
+        "allowed_stay": "90 days",
+        "notes": "90 days within any 180-day period in the Schengen Area."
+    },
+    {
+        "country": "New Zealand",
+        "requirement": "Electronic Travel Authority",
+        "allowed_stay": "6 months",
+        "notes": "May enter using eGate. International Visitor Conservation and Tourism Levy must be paid upon requesting an Electronic Travel Authority. Holders of an Australian Permanent Resident Visa or Resident Return Visa may be granted a New Zealand Resident Visa on arrival permitting indefinite stay (pursuant to the Trans-Tasman Travel Arrangement), subject to meeting character requirements and obtaining an Electronic Travel Authority prior to departure. Such travellers are not required to pay the International Visitor Conservation and Tourism Levy."
+    },
+    {
+        "country": "Nicaragua",
+        "requirement": "Visa not required",
+        "allowed_stay": "90 days",
+        "notes": ""
+    },
+    {
+        "country": "Niger",
+        "requirement": "Visa required",
+        "allowed_stay": "",
+        "notes": "Due to security concerns, the UK Government advises its citizens to avoid travelling to Niger."
+    },
+    {
+        "country": "Nigeria",
+        "requirement": "eVisa",
+        "allowed_stay": "90 days",
+        "notes": "Pre-approved visa can be picked up on arrival."
+    },
+    {
+        "country": "North Macedonia",
+        "requirement": "Visa not required",
+        "allowed_stay": "90 days",
+        "notes": ""
+    },
+    {
+        "country": "Norway",
+        "requirement": "Visa not required",
+        "allowed_stay": "90 days",
+        "notes": "90 days within any 180-day period in the Schengen Area."
+    },
+    {
+        "country": "Oman",
+        "requirement": "Visa not required / eVisa",
+        "allowed_stay": "14 days / 30 days",
+        "notes": ""
+    },
+    {
+        "country": "Pakistan",
+        "requirement": "Free eVisa",
+        "allowed_stay": "90 days",
+        "notes": "Pakistan e-Visa fee is free. Electronic Travel Authorization to obtain a visa on arrival for tourism purposes. Electronic Travel Authorization to obtain a visa on arrival for business purposes."
+    },
+    {
+        "country": "Palau",
+        "requirement": "Free visa on arrival",
+        "allowed_stay": "30 days",
+        "notes": ""
+    },
+    {
+        "country": "Panama",
+        "requirement": "Visa not required",
+        "allowed_stay": "90 days",
+        "notes": "As of 2024, British nationals entering Panama now have a 90 day (3 month) tourist visa stamped in their passport to mark entry to Panama. Extensions are not normally allowed unless you apply to change your immigration status within the 90 days (business, marriage). maximum amount of time that you can stay in Panama as a tourist is three (3) months. If you want to stay longer than three months, you may extend your stay applying for an extension through the Offices of Immigration in Panama. (Panama embassy U.K.) British nationals don't need a visa to visit Panama except if arriving by sea."
+    },
+    {
+        "country": "Papua New Guinea",
+        "requirement": "eVisa",
+        "allowed_stay": "60 days",
+        "notes": "Available at Gurney Airport (Alotau), Mount Hagen Airport, Port Moresby Airport and Tokua Airport (Rabaul)."
+    },
+    {
+        "country": "Paraguay",
+        "requirement": "Visa not required",
+        "allowed_stay": "90 days",
+        "notes": ""
+    },
+    {
+        "country": "Peru",
+        "requirement": "Visa not required",
+        "allowed_stay": "183 days",
+        "notes": "Visa stamp (up to 183 days) length determined on arrival."
+    },
+    {
+        "country": "Philippines",
+        "requirement": "Visa not required",
+        "allowed_stay": "30 days",
+        "notes": "A tourist visa is available from the Philippine Embassy before you travel, which will allow an initial total of 59-day stay. For longer periods, a visa extension is available once inside the country from the Bureau of immigration."
+    },
+    {
+        "country": "Poland",
+        "requirement": "Visa not required",
+        "allowed_stay": "90 days",
+        "notes": "90 days within any 180-day period in the Schengen Area."
+    },
+    {
+        "country": "Portugal",
+        "requirement": "Visa not required",
+        "allowed_stay": "90 days",
+        "notes": "90 days within any 180-day period in the Schengen Area."
+    },
+    {
+        "country": "Qatar",
+        "requirement": "Visa not required",
+        "allowed_stay": "30 days",
+        "notes": ""
+    },
+    {
+        "country": "Romania",
+        "requirement": "Visa not required",
+        "allowed_stay": "90 days",
+        "notes": "90 days within any 180-day period in the Schengen Area."
+    },
+    {
+        "country": "Russia",
+        "requirement": "Visa required",
+        "allowed_stay": "",
+        "notes": "Due to security concerns, the UK Government advises its citizens to avoid travelling to Russia."
+    },
+    {
+        "country": "Rwanda",
+        "requirement": "Visa not required",
+        "allowed_stay": "30 days",
+        "notes": "Can also be entered on an East Africa Tourist Visa issued by Kenya or Uganda."
+    },
+    {
+        "country": "Saint Kitts and Nevis",
+        "requirement": "Visa not required",
+        "allowed_stay": "3 months",
+        "notes": ""
+    },
+    {
+        "country": "Saint Lucia",
+        "requirement": "Visa not required",
+        "allowed_stay": "6 weeks",
+        "notes": ""
+    },
+    {
+        "country": "Saint Vincent and the Grenadines",
+        "requirement": "Visa not required",
+        "allowed_stay": "6 months",
+        "notes": ""
+    },
+    {
+        "country": "Samoa",
+        "requirement": "Entry permit on arrival",
+        "allowed_stay": "90 days",
+        "notes": ""
+    },
+    {
+        "country": "San Marino",
+        "requirement": "Visa not required",
+        "allowed_stay": "",
+        "notes": ""
+    },
+    {
+        "country": "São Tomé and Príncipe",
+        "requirement": "Visa not required",
+        "allowed_stay": "15 days",
+        "notes": ""
+    },
+    {
+        "country": "Saudi Arabia",
+        "requirement": "Electronic Visa Waiver / Visa on arrival",
+        "allowed_stay": "6 months / 90 days",
+        "notes": "e-Visa / Visa on arrival can also be obtained."
+    },
+    {
+        "country": "Senegal",
+        "requirement": "Visa not required",
+        "allowed_stay": "90 days",
+        "notes": ""
+    },
+    {
+        "country": "Serbia",
+        "requirement": "Visa not required",
+        "allowed_stay": "90 days",
+        "notes": ""
+    },
+    {
+        "country": "Seychelles",
+        "requirement": "Electronic Border System",
+        "allowed_stay": "3 months",
+        "notes": "Application can be submitted up to 30 days before travel. Visitors must upload a reservation confirmation(s) for each visitor's location of stay in Seychelles. Yellow fever vaccination certificate is required if coming from endemic countries. Payment of the fee (EUR 10) by credit or debit card. Valid for one journey only and it expires once exit the country."
+    },
+    {
+        "country": "Sierra Leone",
+        "requirement": "eVisa / Visa on arrival",
+        "allowed_stay": "3 months / 30 days",
+        "notes": ""
+    },
+    {
+        "country": "Singapore",
+        "requirement": "Visa not required",
+        "allowed_stay": "90 days",
+        "notes": ""
+    },
+    {
+        "country": "Slovakia",
+        "requirement": "Visa not required",
+        "allowed_stay": "90 days",
+        "notes": "90 days within any 180-day period in the Schengen Area."
+    },
+    {
+        "country": "Slovenia",
+        "requirement": "Visa not required",
+        "allowed_stay": "90 days",
+        "notes": "90 days within any 180-day period in the Schengen Area."
+    },
+    {
+        "country": "Solomon Islands",
+        "requirement": "Free Visitor's permit on arrival",
+        "allowed_stay": "3 months",
+        "notes": ""
+    },
+    {
+        "country": "Somalia",
+        "requirement": "eVisa",
+        "allowed_stay": "30 days",
+        "notes": "All visitors must have an approved Electronic Visa (eTAS) before the start of their journey"
+    },
+    {
+        "country": "South Africa",
+        "requirement": "Visa not required",
+        "allowed_stay": "90 days",
+        "notes": ""
+    },
+    {
+        "country": "South Sudan",
+        "requirement": "eVisa",
+        "allowed_stay": "",
+        "notes": "Obtainable online. Printed visa authorization must be presented at the time of travel."
+    },
+    {
+        "country": "Spain",
+        "requirement": "Visa not required",
+        "allowed_stay": "90 days",
+        "notes": "90 days within any 180-day period in the Schengen Area."
+    },
+    {
+        "country": "Sri Lanka",
+        "requirement": "ETA / Visa on arrival",
+        "allowed_stay": "30 days",
+        "notes": ""
+    },
+    {
+        "country": "Sudan",
+        "requirement": "Visa required",
+        "allowed_stay": "",
+        "notes": ""
+    },
+    {
+        "country": "Suriname",
+        "requirement": "Visa not required",
+        "allowed_stay": "90 days",
+        "notes": "An entrance fee of USD 25 or EUR 25 must be paid online prior to arrival. Multiple entry e-Visa is also available."
+    },
+    {
+        "country": "Sweden",
+        "requirement": "Visa not required",
+        "allowed_stay": "90 days",
+        "notes": "90 days within any 180-day period in the Schengen Area."
+    },
+    {
+        "country": "Switzerland",
+        "requirement": "Visa not required",
+        "allowed_stay": "",
+        "notes": "UK citizens do not require an entry visa for Switzerland for either short stays or for long stays (over 90 days)."
+    },
+    {
+        "country": "Syria",
+        "requirement": "eVisa",
+        "allowed_stay": "",
+        "notes": "Due to security concerns, the UK Government advises its citizens to avoid travelling to Syria."
+    },
+    {
+        "country": "Taiwan",
+        "requirement": "Visa not required",
+        "allowed_stay": "90 days",
+        "notes": ""
+    },
+    {
+        "country": "Tajikistan",
+        "requirement": "eVisa / Visa on arrival",
+        "allowed_stay": "60 days / 45 days",
+        "notes": ""
+    },
+    {
+        "country": "Tanzania",
+        "requirement": "eVisa / Visa on arrival",
+        "allowed_stay": "90 days",
+        "notes": ""
+    },
+    {
+        "country": "Thailand",
+        "requirement": "Visa not required",
+        "allowed_stay": "60 days",
+        "notes": "If not arriving by air, British citizens are only permitted two visits per year."
+    },
+    {
+        "country": "Timor-Leste",
+        "requirement": "Visa on arrival",
+        "allowed_stay": "30 days",
+        "notes": "Visa on arrival is only available at the Presidente Nicolau Lobato International Airport or at the Dili Sea Port."
+    },
+    {
+        "country": "Togo",
+        "requirement": "eVisa",
+        "allowed_stay": "15 days",
+        "notes": ""
+    },
+    {
+        "country": "Tonga",
+        "requirement": "Free visa on arrival",
+        "allowed_stay": "31 days",
+        "notes": ""
+    },
+    {
+        "country": "Trinidad and Tobago",
+        "requirement": "Visa not required",
+        "allowed_stay": "",
+        "notes": ""
+    },
+    {
+        "country": "Tunisia",
+        "requirement": "Visa not required",
+        "allowed_stay": "3 months",
+        "notes": ""
+    },
+    {
+        "country": "Turkey",
+        "requirement": "Visa not required",
+        "allowed_stay": "3 months",
+        "notes": "90 days within any 180-day period."
+    },
+    {
+        "country": "Turkmenistan",
+        "requirement": "Visa required",
+        "allowed_stay": "",
+        "notes": "Pre-approved visa can be picked up on arrival."
+    },
+    {
+        "country": "Tuvalu",
+        "requirement": "Free Visa on arrival",
+        "allowed_stay": "1 month",
+        "notes": ""
+    },
+    {
+        "country": "Uganda",
+        "requirement": "eVisa",
+        "allowed_stay": "3 months",
+        "notes": "Can also be entered on an East Africa tourist visa issued by Kenya or Rwanda."
+    },
+    {
+        "country": "Ukraine",
+        "requirement": "Visa not required",
+        "allowed_stay": "90 days",
+        "notes": "Due to ongoing Russian invasion of Ukraine, the UK Government advises its citizens to avoid travelling to Ukraine."
+    },
+    {
+        "country": "United Arab Emirates",
+        "requirement": "Visa not required",
+        "allowed_stay": "30 days",
+        "notes": "The visa issued at the airport for British passports holders is valid for 30 days – plus a 10 day grace period. If you wish to stay longer, you may make a request with the Immigration Officer at the airport or contact the local General Directorate of Residency and Foreign Affairs at least 3 days prior to the expiry date."
+    },
+    {
+        "country": "United States",
+        "requirement": "Visa Waiver Program",
+        "allowed_stay": "90 days",
+        "notes": "ESTA is valid for 2 years from the date of issuance. ESTA is also required when entering the country by cruise ship or land. Visa required for nationals of VWP countries who have travelled or been present in Iraq, North Korea, Syria, Iran, Sudan, Libya, Somalia, or Yemen at any time on or after 1 March 2011 (with limited exceptions), or those who have travelled or being present in Cuba at any time on or after 12 January 2021, or nationals of VWP countries who are also nationals of Iraq, Syria, Iran, North Korea or Sudan."
+    },
+    {
+        "country": "Uruguay",
+        "requirement": "Visa not required",
+        "allowed_stay": "90 days",
+        "notes": ""
+    },
+    {
+        "country": "Uzbekistan",
+        "requirement": "Visa not required",
+        "allowed_stay": "30 days",
+        "notes": ""
+    },
+    {
+        "country": "Vanuatu",
+        "requirement": "Visa not required",
+        "allowed_stay": "30 days",
+        "notes": ""
+    },
+    {
+        "country": "Vatican City",
+        "requirement": "Visa not required",
+        "allowed_stay": "",
+        "notes": ""
+    },
+    {
+        "country": "Venezuela",
+        "requirement": "Visa not required",
+        "allowed_stay": "90 days",
+        "notes": "Extensions of up to 90 days can be arranged at any SAIME (immigration service) for a fee and must apply before one’s tourist card and stamp expire. One can only apply for or extend their (residency permit) at the main SAIME office in Caracas."
+    },
+    {
+        "country": "Vietnam",
+        "requirement": "Visa not required",
+        "allowed_stay": "45 days",
+        "notes": "A single entry e-Visa valid for 90 days is also available."
+    },
+    {
+        "country": "Yemen",
+        "requirement": "Visa required",
+        "allowed_stay": "",
+        "notes": "Due to security concerns, the UK Government advises its citizens to avoid travelling to Yemen."
+    },
+    {
+        "country": "Zambia",
+        "requirement": "Visa not required",
+        "allowed_stay": "30 days",
+        "notes": "British citizens are eligible for a universal visa allowing access to Zimbabwe."
+    },
+    {
+        "country": "Zimbabwe",
+        "requirement": "eVisa / Visa on arrival",
+        "allowed_stay": "30 days",
+        "notes": "British citizens are also eligible for a universal visa allowing access to Zambia."
+    }
+]
