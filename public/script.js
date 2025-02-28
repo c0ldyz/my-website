@@ -1,5 +1,6 @@
 // Country data (from the JSON above)
 const countries = [
+    [
     {"code": "AF", "name": "Afghanistan"},
     {"code": "AL", "name": "Albania"},
     {"code": "DZ", "name": "Algeria"},
@@ -240,6 +241,7 @@ const countries = [
     {"code": "YE", "name": "Yemen"},
     {"code": "ZM", "name": "Zambia"},
     {"code": "ZW", "name": "Zimbabwe"}
+
 ];
 
 // Populate the dropdowns
