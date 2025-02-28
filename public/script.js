@@ -1,6 +1,6 @@
 // Country data (from the JSON above)
 const countries = [
-    [
+    
     {"code": "AF", "name": "Afghanistan"},
     {"code": "AL", "name": "Albania"},
     {"code": "DZ", "name": "Algeria"},
