@@ -42,61 +42,20 @@ body {
 .search-container {
     margin: 20px 0;
     display: flex;
-    justify-content: center;
+    flex-direction: column;
     gap: 10px;
 }
 
-#search {
+#nationality, #destination {
     padding: 12px;
-    width: 70%;
+    width: 100%;
     border: 2px solid #ff416c;
     border-radius: 5px;
     font-size: 1em;
     transition: 0.3s ease-in-out;
 }
 
-#search:focus {
-    width: 80%;
-    border-color: #ff4b2b;
-}
-
-/* Trending Topics */
-.trending-topics {
-    margin-top: 20px;
-}
-
-.trending-topics h2 {
-    font-size: 1.5em;
-    color: #ff416c;
-}
-
-.trending-topics ul {
-    list-style: none;
-    padding: 0;
-}
-
-.trending-topics li {
-    margin: 10px 0;
-    font-size: 1.2em;
-}
-
-.trending-topics a {
-    text-decoration: none;
-    color: #333;
-    font-weight: bold;
-    transition: 0.2s;
-}
-
-.trending-topics a:hover {
-    color: #ff416c;
-}
-
-/* Call to Action */
-.cta {
-    margin-top: 20px;
-}
-
-.signup-btn {
+button {
     background: #ff4b2b;
     color: white;
     border: none;
@@ -107,6 +66,27 @@ body {
     transition: 0.3s;
 }
 
-.signup-btn:hover {
+button:hover {
     background: #ff416c;
+}
+
+/* Results */
+.results-container {
+    margin-top: 20px;
+    text-align: left;
+}
+
+.results-container h2 {
+    font-size: 1.5em;
+    color: #ff416c;
+}
+
+.results-container ul {
+    list-style: none;
+    padding: 0;
+}
+
+.results-container li {
+    margin: 10px 0;
+    font-size: 1.2em;
 }

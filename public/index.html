@@ -3,32 +3,35 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Debate Hub</title>
+    <title>Global Visa Information</title>
     <link rel="stylesheet" href="styles.css">
 </head>
 <body>
     <div class="container">
-        <h1 class="title">Debate Hub</h1>
-        <p class="tagline">The place for passionate discussions and fiery debates! 🔥</p>
+        <h1 class="title">Global Visa Information</h1>
+        <p class="tagline">Your one-stop resource for visa details and requirements.</p>
 
         <div class="search-container">
-            <input type="text" id="search" placeholder="What's the hottest topic today?">
-            <button onclick="searchTopic()">🔍</button>
+            <form id="visaForm">
+                <label for="nationality">Nationality:</label>
+                <select id="nationality">
+                    <option value="USA">USA</option>
+                    <option value="UK">UK</option>
+                    <option value="Australia">Australia</option>
+                    <!-- Add more options -->
+                </select>
+                <label for="destination">Destination:</label>
+                <select id="destination">
+                    <option value="Vietnam">Vietnam</option>
+                    <option value="Thailand">Thailand</option>
+                    <option value="Germany">Germany</option>
+                    <!-- Add more options -->
+                </select>
+                <button type="submit">Get Visa Info</button>
+            </form>
         </div>
 
-        <div class="trending-topics">
-            <h2>🔥 Trending Debates</h2>
-            <ul>
-                <li><a href="#">Is AI taking over our jobs?</a></li>
-                <li><a href="#">Should pineapple be on pizza?</a></li>
-                <li><a href="#">Will space travel be affordable by 2050?</a></li>
-            </ul>
-        </div>
-
-        <div class="cta">
-            <p>Want to join the conversation?</p>
-            <button class="signup-btn">Sign Up Now</button>
-        </div>
+        <div id="results" class="results-container"></div>
     </div>
 
     <script src="script.js"></script>
